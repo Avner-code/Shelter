@@ -1,9 +1,13 @@
 body{
-    background-color: greenyellow;
+    background-color: rgb(255, 248, 47);
 }
 
 
 h1{
     text-align: center;
 
+}
+ul{
+    background-color: lawngreen;
+    color: rgb(0, 0, 0);
 }
